@@ -63,3 +63,4 @@ regrinhas
 8. `arena_alloc()` **deve** trabalhar com aritmética de ponteiros.
 9. evite casts desnecessarios.
 10. faça tratamento de overflow (offset + size).
+
